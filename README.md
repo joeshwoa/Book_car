@@ -57,21 +57,22 @@ The repository is structured as follows:
 
 Here are some screenshots of the app:
 
-![Splash Screen](C:\Users\joesh\OneDrive\Desktop\Screenshot_1722938193.png)
+![Splash Screen](https://github.com/user-attachments/assets/ddea0c8b-3867-4387-9991-6a27f5dc8ff5)
+
 *Splash Screen*
 
-![Profile Screen](C:\Users\joesh\OneDrive\Desktop\Screenshot_1722938206.png)
-![Profile Screen](C:\Users\joesh\OneDrive\Desktop\Screenshot_1722932617.png)
-![Profile Screen](C:\Users\joesh\OneDrive\Desktop\Screenshot_1722932648.png)
+![Profile Screen](https://github.com/user-attachments/assets/b2534e3f-2ffc-451e-8515-988f3dbd2d40)
+![Profile Screen](https://github.com/user-attachments/assets/eda0d8d9-8b75-409c-8bab-6edf9882a191)
+![Profile Screen](https://github.com/user-attachments/assets/00dbdb8f-31ab-4786-b382-1a951fbf4f69)
 *Profile Screen*
 
-![Chat Screen](C:\Users\joesh\OneDrive\Desktop\Screenshot_1722932627.png)
+![Chat Screen](https://github.com/user-attachments/assets/c77ae750-103e-48f0-b04e-62abc2affa96)
 *Chat Screen*
 
-![Booking Listing](C:\Users\joesh\OneDrive\Desktop\Screenshot_1722932611.png)
+![Booking Listing](https://github.com/user-attachments/assets/6bfca8a6-6428-41d1-94f7-12710b77a1c0)
 *Booking Listing*
 
-![Booking Screen](C:\Users\joesh\OneDrive\Desktop\Screenshot_1722932601.png)
+![Booking Screen](https://github.com/user-attachments/assets/cfb0671f-0b9b-42ee-8c33-0afe040a1904)
 *Booking Screen*
 
 ## Contributing
