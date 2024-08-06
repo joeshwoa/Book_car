@@ -57,22 +57,22 @@ The repository is structured as follows:
 
 Here are some screenshots of the app:
 
+### Splash Screen
 <img src="https://github.com/user-attachments/assets/ddea0c8b-3867-4387-9991-6a27f5dc8ff5" alt="Splash Screen" width="300">
-*Splash Screen*
 
+### Profile Screen
 <img src="https://github.com/user-attachments/assets/b2534e3f-2ffc-451e-8515-988f3dbd2d40" alt="Profile Screen" width="300">
 <img src="https://github.com/user-attachments/assets/eda0d8d9-8b75-409c-8bab-6edf9882a191" alt="Profile Screen" width="300">
 <img src="https://github.com/user-attachments/assets/00dbdb8f-31ab-4786-b382-1a951fbf4f69" alt="Profile Screen" width="300">
-*Profile Screen*
 
+### Chat Screen
 <img src="https://github.com/user-attachments/assets/c77ae750-103e-48f0-b04e-62abc2affa96" alt="Chat Screen" width="300">
-*Chat Screen*
 
+### Booking Listing
 <img src="https://github.com/user-attachments/assets/6bfca8a6-6428-41d1-94f7-12710b77a1c0" alt="Booking Listing" width="300">
-*Booking Listing*
 
+### Booking Screen
 <img src="https://github.com/user-attachments/assets/cfb0671f-0b9b-42ee-8c33-0afe040a1904" alt="Booking Screen" width="300">
-*Booking Screen*
 
 ## Contributing
 
