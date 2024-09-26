@@ -1,10 +1,11 @@
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<br>
 
 # Book Car
 
 Book Car is a Flutter project aimed at providing a comprehensive solution for car booking. This repository contains the source code for both Android and iOS platforms.
 
 ## Features
-
 - **User Authentication**: Secure login and registration system.
 - **Car Listing**: Browse through a variety of cars available for booking.
 - **Booking System**: Book cars for specific dates and times.
@@ -13,38 +14,33 @@ Book Car is a Flutter project aimed at providing a comprehensive solution for ca
 - **Notifications**: Receive updates about bookings and special offers.
 
 ## Getting Started
-
 To get started with the project, follow these steps:
 
 ### Prerequisites
-
 Ensure you have the following installed:
 - [Flutter](https://flutter.dev/docs/get-started/install)
 - [Dart](https://dart.dev/get-dart)
 - An IDE such as [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Installation
-
 1. Clone the repository:
-   \`\`\`bash
+   ````
    git clone https://github.com/joeshwoa/Book_car.git
    cd Book_car
-   \`\`\`
+   ````
 
-2. Install dependencies:
-   \`\`\`bash
+3. Install dependencies:
+   ```
    flutter pub get
-   \`\`\`
+   ```
 
-3. Run the app:
-   \`\`\`bash
+4. Run the app:
+   ```
    flutter run
-   \`\`\`
+   ```
 
 ## Project Structure
-
 The repository is structured as follows:
-
 - **android**: Android-specific code
 - **assets**: Images and other assets
 - **ios**: iOS-specific code
@@ -54,7 +50,6 @@ The repository is structured as follows:
 - **pubspec.yaml**: Project metadata and dependencies
 
 ## Screenshots
-
 Here are some screenshots of the app:
 
 ### Splash Screen
@@ -75,11 +70,9 @@ Here are some screenshots of the app:
 <img src="https://github.com/user-attachments/assets/cfb0671f-0b9b-42ee-8c33-0afe040a1904" alt="Booking Screen" width="300">
 
 ## Contributing
-
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ### Steps to Contribute
-
 1. Fork the repository
 2. Create a new branch: ```git checkout -b feature-branch```
 3. Commit your changes: ```git commit -m 'Add some feature'```
@@ -87,9 +80,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 5. Create a new pull request
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
 For any questions or feedback, please contact [joeshwoa](https://github.com/joeshwoa).
